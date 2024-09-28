@@ -1,8 +1,7 @@
 # PREDICTING CLOTHES SIZE FOR PERSONAL FIT USING MACHINE LEARNING
 
-This project leverages machine learning algorithms to predict optimal clothing sizes for individuals based on their height,  
-weight, and age. By analysing historical sizing data, the model recommends the best-fitting size, helping both retailers and  
-consumers reduce returns due to incorrect sizing and enhance the overall shopping experience.  
+This project leverages machine learning algorithms to predict optimal clothing sizes for individuals based on their height, weight, and age.  
+By analysing historical sizing data, the model recommends the best-fitting size, helping both retailers and consumers reduce returns due to incorrect sizing and enhance the overall shopping experience.  
 The solution has been deployed as a user-friendly Streamlit application, where users can input their data and instantly receive 
 personalized size recommendations. This project aims to improve efficiency in fashion retail by offering tailored recommendations, enhancing personalization for both consumers and retailers.  
 
