@@ -5,10 +5,12 @@ By analysing historical sizing data, the model recommends the best-fitting size,
 The solution has been deployed as a user-friendly Streamlit application, where users can input their data and instantly receive 
 personalized size recommendations. This project aims to improve efficiency in fashion retail by offering tailored recommendations, enhancing personalization for both consumers and retailers.  
 
-•	Analysed the historical sizing data using exploratory data analysis (EDA) and feature engineering.  
+•	Analysed the dataset using exploratory data analysis (EDA) and feature engineering  
+•	Built classification models Decision Tree and Random Forest  
+•	Evaluate the model performance using Cross-validation with a focus on accuracy and F1 score  
+•	Random Forest Achieved an optimal performance accuracy of 62% with F1 Score of 61% after optimizing hyperparameters  
+•	During cross-validation, the model achieved an accuracy of around 60.9% across different training-validation splits. This suggests that the model has moderate classification performance. However, the performance might be improve with larger dataset.
 
-•	Built the model with a focus on accuracy and F1 score.
-- Achieve an acuracy of 62%
 - Model link: [here](https://predicting-clothes-sizes-using-maching-learning.streamlit.app/)
 
   ## Clothe Size App
