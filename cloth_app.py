@@ -17,7 +17,7 @@ def predict_size(input_data):
     return predicted_size
 
 #Main App
-htmlfile=""""
+htmlfile="""
 <div style = "background-color:Tomato; padding:10px;margin:10px;">
 <h1 style = "color:white; text-align:center;"> CLOTHES SIZE PREDICTION APP </h1>
 </div>
