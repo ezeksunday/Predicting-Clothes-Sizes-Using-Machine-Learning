@@ -1,4 +1,4 @@
-# PREDICTING CLOTHES SIZE FOR PERSONAL FIT USING MACHING LEARNING
+# PREDICTING CLOTHES SIZE FOR PERSONAL FIT USING MACHINE LEARNING
 
 This project leverages machine learning algorithms to predict optimal clothing sizes for individuals based on their height,  
 weight, and age. By analysing historical sizing data, the model recommends the best-fitting size, helping both retailers and  
