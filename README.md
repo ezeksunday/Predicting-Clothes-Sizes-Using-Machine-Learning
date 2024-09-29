@@ -9,7 +9,7 @@ personalized size recommendations. This project aims to improve efficiency in fa
 •	Built classification models Decision Tree and Random Forest  
 •	Evaluate the model performance using Cross-validation with a focus on accuracy and F1 score  
 •	Random Forest Achieved an optimal performance accuracy of 62% with F1 Score of 61% after optimizing hyperparameters  
-•	During cross-validation, the model achieved an accuracy of around 60.9% across different training-validation splits. This suggests that the model has moderate classification performance. However, the performance might be improve with larger dataset.
+•	During cross-validation, the model achieved an accuracy of around 60.9% across different training-validation splits. This suggests that the model has moderate classification performance. However, the performance might be improve with better quality dataset or larger dataset.
 
 - Model link: [here](https://predicting-clothes-sizes-using-maching-learning.streamlit.app/)
 
